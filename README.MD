@@ -24,3 +24,5 @@ edit ```/etc/docker/daemon.json``` file, and add the following config
   "insecure-registries": ["youip:18888"]
 }
 ```
+
+4. Restart docker service and enjoy
